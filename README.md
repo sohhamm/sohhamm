@@ -16,10 +16,14 @@ Here are some ideas to get you started:
 -->
 <!-- <a href="https://github.com/sohhamm"> -->
 <!--    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sohhamm&count_private=true&show_icons=true&theme=nightowl" /> -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohhamm&count_private=true&show_icons=true&theme=nightowl)
+![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohhamm&count_private=true&show_icons=true&theme=nightowl)
 <!--   </a> -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohhamm&count_private=true&show_icons=true&theme=nightowl)
 
 
-<a href="https://app.daily.dev/sohhamm"><img src="https://api.daily.dev/devcards/ffd47041b5e8431ab43e420bc3c46a65.png?r=96z" width="400" alt="Soham Sarkar's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+
+
+
+
