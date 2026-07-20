@@ -43,7 +43,7 @@
     font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace"
     font-size="22"
     font-weight="600"
-    transform="translate(200 0) scale(0.6 1)"
+    transform="translate(315 0) scale(0.6 1)"
   >
     <tspan x="0" dy="0">   _____       __                       _____            __</tspan>
     <tspan x="0" dy="34">  / ___/____  / /_  ____ _____ ___     / ___/____ ______/ /______ ______</tspan>
