@@ -1,23 +1,15 @@
-<div align="center">
+  <pre align="center">
+     _____       __                       _____            __
+    / ___/____  / /_  ____ _____ ___     / ___/____ ______/ /______ ______
+    \__ \/ __ \/ __ \/ __ `/ __ `__ \    \__ \/ __ `/ ___/ //_/ __ `/ ___/
+   ___/ / /_/ / / / / /_/ / / / / / /   ___/ / /_/ / /  / ,&lt; / /_/ / /
+  /____/\____/_/ /_/\__,_/_/ /_/ /_/   /____/\__,_/_/  /_/|_|\__,_/_/
+  </pre>
 
-```md
-   _____       __                       _____            __             
-  / ___/____  / /_  ____ _____ ___     / ___/____ ______/ /______ ______
-  \__ \/ __ \/ __ \/ __ `/ __ `__ \    \__ \/ __ `/ ___/ //_/ __ `/ ___/
- ___/ / /_/ / / / / /_/ / / / / / /   ___/ / /_/ / /  / ,< / /_/ / /    
-/____/\____/_/ /_/\__,_/_/ /_/ /_/   /____/\__,_/_/  /_/|_|\__,_/_/     
-                                                                        
-* Building the future, one line of code at a time *
-```
-</div>
+  <p align="center"><em>Product engineer based in Bengaluru.</em></p>
 
 
-<p>
-  Product engineer based in Bengaluru.
-</p>
-
-
-<p>
+<p align="center">
   <a href="https://sohamsarkar.com/products"><strong>Products</strong></a>
   ·
   <a href="https://sohamsarkar.com/projects"><strong>Projects</strong></a>
@@ -33,7 +25,7 @@
 
 ## Products
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>Ritua</h3>
