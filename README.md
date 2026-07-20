@@ -1,12 +1,6 @@
-  <pre align="center">
-     _____       __                       _____            __
-    / ___/____  / /_  ____ _____ ___     / ___/____ ______/ /______ ______
-    \__ \/ __ \/ __ \/ __ `/ __ `__ \    \__ \/ __ `/ ___/ //_/ __ `/ ___/
-   ___/ / /_/ / / / / /_/ / / / / / /   ___/ / /_/ / /  / ,&lt; / /_/ / /
-  /____/\____/_/ /_/\__,_/_/ /_/ /_/   /____/\__,_/_/  /_/|_|\__,_/_/
-  </pre>
+<img src="./github-profile-header.svg" alt="Soham Sarkar" width="100%" />
 
-  <p align="center"><em>Product engineer based in Bengaluru.</em></p>
+<p align="center"><em>Product engineer based in Bengaluru.</em></p>
 
 
 <p align="center">
