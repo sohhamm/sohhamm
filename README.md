@@ -9,43 +9,85 @@
                                                                         
 * Building the future, one line of code at a time *
 ```
-
 </div>
 
 
-<h2>🏆 Github Stats</h2>
-
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=sohhamm&count_private=true&show_icons=true&theme=nightowl" alt="Soham's Github Stats" width="45%" />
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sohhamm&theme=nightowl" width="45%" />
+<p>
+  Product engineer based in Bengaluru.
 </p>
 
-<p align="center">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohhamm&count_private=true&show_icons=true&theme=nightowl" width="45%">
-  <a href="https://github.com/sohhamm?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=sohhamm&theme=algolia&no-frame=true&column=3&row=2&margin-h=17"  width="45%" alt="Soham's trophy stats"/></a>
+
+<p>
+  <a href="https://sohamsarkar.com/products"><strong>Products</strong></a>
+  ·
+  <a href="https://sohamsarkar.com/projects"><strong>Projects</strong></a>
+  ·
+  <a href="https://sohamsarkar.com/resume"><strong>Experience</strong></a>
+  ·
+  <a href="mailto:sohamsarkar.work@gmail.com"><strong>Contact</strong></a>
 </p>
+
+</div>
 
 ---
 
-### 🌐 Connect with me:
+## Products
 
-<p align="center">
-  <a href="https://twitter.com/sohamsarkartech">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="mailto:sohamsarkar.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-   <a href="https://linkedin.com/in/sohhamm">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://sohamsarkar.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
-  </a>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Ritua</h3>
+      <p>The best free habit tracker. Build habits that last.</p>
+      <a href="https://getritua.com"><strong>Download Ritua →</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>SuperDivide <sup>Beta</sup></h3>
+      <p>Split expenses without any hassle.</p>
+      <a href="https://superdivide.com"><strong>Try SuperDivide →</strong></a>
+    </td>
+  </tr>
+</table>
+
+<p align="right">
+  <a href="https://sohamsarkar.com/products"><strong>Explore all products →</strong></a>
 </p>
 
+<details>
+  <summary><strong>Up next</strong></summary>
 
+- **AI-native SaaS starter** — A production-ready foundation for launching software products in the age of AI.
+- **Agent-ready UI kit** — A design system and collection of reusable web components built for AI agents.
+- **[Superthread.ai](https://superthread.ai)** — An AI wardrobe management app and personal stylist.
+- **Focus time tracker** — A focused macOS app for understanding and improving how you spend your time.
 
+</details>
 
+## Selected work
 
+| Project | What it does | Explore |
+|---|---|---|
+| **Country Finder** | Search, filter, and explore detailed information about countries around the world. | [Live app](https://country.sohamsarkar.com) · [Source](https://github.com/sohhamm/country-finder) |
+| **Password Generator** | Generate secure, customizable passwords with real-time strength feedback. | [Live app](https://passwordxgenerator.vercel.app) · [Source](https://github.com/sohhamm/password-generator) |
+| **Pokédex** | Explore Pokémon information, stats, and details through a searchable interface. | [Live app](https://pokedex.sohamsarkar.com) · [Source](https://github.com/sohhamm/pokemon-react) |
+| **Temporary Chat Enforcer** | Privacy-first browser extension that automatically enables temporary chat across ChatGPT, Claude, and Gemini. | [Source](https://github.com/sohhamm/temporary-chat-enforcer) |
+| **Charizard** | Open-source React component library with 50+ accessible, typed, production-ready components. | [Showcase](https://ui.zenadmin.co) · [Source](https://github.com/Usehybrid/charizard) |
 
+<p align="right">
+  <a href="https://sohamsarkar.com/projects"><strong>Explore more projects →</strong></a>
+</p>
+
+<div align="center">
+
+### Let’s connect
+
+Building something interesting, looking for an experienced product engineer, or just want to compare notes?
+
+<a href="https://sohamsarkar.com">Website</a>
+·
+<a href="https://linkedin.com/in/sohhamm">LinkedIn</a>
+·
+<a href="https://twitter.com/sohamsarkartech">X / Twitter</a>
+·
+<a href="mailto:sohamsarkar.work@gmail.com">Email</a>
+
+</div>
