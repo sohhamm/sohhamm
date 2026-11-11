@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <a href="https://sohamsarkar.com/products"><strong>Products</strong></a>
+  <a href="https://sohamsarkar.com"><strong>Products</strong></a>
   ·
   <a href="https://sohamsarkar.com/projects"><strong>Projects</strong></a>
   ·
@@ -13,8 +13,6 @@
   <a href="mailto:sohamsarkar.work@gmail.com"><strong>Contact</strong></a>
 </p>
 
-</div>
-
 ---
 
 ## Products
@@ -22,31 +20,45 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>Ritua</h3>
-      <p>The best free habit tracker. Build habits that last.</p>
-      <a href="https://getritua.com"><strong>Download Ritua →</strong></a>
+      <h3>SuperDivide</h3>
+      <p><strong>Shared expenses, settled.</strong> Create, manage and settle shared expenses without the hassle.</p>
+      <a href="https://superdivide.com"><strong>superdivide.com →</strong></a>
     </td>
     <td width="50%" valign="top">
-      <h3>SuperDivide <sup>Beta</sup></h3>
-      <p>Split expenses without any hassle.</p>
-      <a href="https://superdivide.com"><strong>Try SuperDivide →</strong></a>
+      <h3>Ritua</h3>
+      <p><strong>Build habits that actually last.</strong> A free habit tracker with streaks, habit scores and planned rest days.</p>
+      <a href="https://getritua.com"><strong>getritua.com →</strong></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>superslate</h3>
+      <p><strong>The SaaS boilerplate built for the agent era.</strong> Source-owned TypeScript foundation in React + Hono, TanStack Start and Expo editions.</p>
+      <a href="https://superslate.dev"><strong>superslate.dev →</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>saasclub</h3>
+      <p><strong>You don't earn #1 here. You buy it.</strong> The paid product leaderboard: whatever you pay is your rank.</p>
+      <a href="https://saasclub.app"><strong>saasclub.app →</strong></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>TesterSwap</h3>
+      <p><strong>Real installs, real testers, real reviews.</strong> Developers test each other's apps and clear Google Play's 14-day closed test together.</p>
+      <a href="https://testerswap.com"><strong>testerswap.com →</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>CTC in Hand</h3>
+      <p><strong>Your CTC, as the money that lands each month.</strong> In-hand salary calculator for India, new vs old tax regime side by side.</p>
+      <a href="https://ctcinhand.in"><strong>ctcinhand.in →</strong></a>
     </td>
   </tr>
 </table>
 
 <p align="right">
-  <a href="https://sohamsarkar.com/products"><strong>Explore all products →</strong></a>
+  <a href="https://sohamsarkar.com"><strong>All products on sohamsarkar.com →</strong></a>
 </p>
-
-<details>
-  <summary><strong>Up next</strong></summary>
-
-- **AI-native SaaS starter** — A production-ready foundation for launching software products in the age of AI.
-- **Agent-ready UI kit** — A design system and collection of reusable web components built for AI agents.
-- **[Superthread.ai](https://superthread.ai)** — An AI wardrobe management app and personal stylist.
-- **Focus time tracker** — A focused macOS app for understanding and improving how you spend your time.
-
-</details>
 
 ## Selected work
 
