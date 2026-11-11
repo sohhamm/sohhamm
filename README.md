@@ -22,41 +22,31 @@
     <td width="50%" valign="top">
       <a href="https://superdivide.com"><img src="./assets/superdivide.jpg" alt="superdivide" width="100%" /></a>
       <h3>SuperDivide</h3>
-      <p><strong>Shared expenses, settled.</strong> Create, manage and settle shared expenses without the hassle.</p>
+      <p><strong>Shared expenses, settled.</strong></p>
       <a href="https://superdivide.com"><strong>superdivide.com →</strong></a>
     </td>
     <td width="50%" valign="top">
       <a href="https://getritua.com"><img src="./assets/ritua.jpg" alt="ritua" width="100%" /></a>
-      <h3>Ritua</h3>
-      <p><strong>Build habits that actually last.</strong> A free habit tracker with streaks, habit scores and planned rest days.</p>
       <a href="https://getritua.com"><strong>getritua.com →</strong></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://superslate.dev"><img src="./assets/superslate.jpg" alt="superslate" width="100%" /></a>
-      <h3>superslate</h3>
-      <p><strong>The SaaS boilerplate built for the agent era.</strong> Source-owned TypeScript foundation in React + Hono, TanStack Start and Expo editions.</p>
       <a href="https://superslate.dev"><strong>superslate.dev →</strong></a>
     </td>
     <td width="50%" valign="top">
       <a href="https://saasclub.app"><img src="./assets/saasclub.jpg" alt="saasclub" width="100%" /></a>
-      <h3>saasclub</h3>
-      <p><strong>You don't earn #1 here. You buy it.</strong> The paid product leaderboard: whatever you pay is your rank.</p>
       <a href="https://saasclub.app"><strong>saasclub.app →</strong></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://testerswap.com"><img src="./assets/testerswap.jpg" alt="testerswap" width="100%" /></a>
-      <h3>TesterSwap</h3>
-      <p><strong>Real installs, real testers, real reviews.</strong> Developers test each other's apps and clear Google Play's 14-day closed test together.</p>
       <a href="https://testerswap.com"><strong>testerswap.com →</strong></a>
     </td>
     <td width="50%" valign="top">
       <a href="https://ctcinhand.in"><img src="./assets/ctcinhand.jpg" alt="ctcinhand" width="100%" /></a>
-      <h3>CTC in Hand</h3>
-      <p><strong>Your CTC, as the money that lands each month.</strong> In-hand salary calculator for India, new vs old tax regime side by side.</p>
       <a href="https://ctcinhand.in"><strong>ctcinhand.in →</strong></a>
     </td>
   </tr>
